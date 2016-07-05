@@ -54,5 +54,8 @@ if ($_POST){
         if ($fatores == $number){
                 echo "O numero $number e perfeito.";
         }
+        else{
+                echo "O numero $number nao e perfeito."
+        }
 }
 ?>
