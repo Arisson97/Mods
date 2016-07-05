@@ -55,7 +55,8 @@ if ($_POST){
                 echo "O numero $number e perfeito.";
         }
         else{
-                echo "O numero $number nao e perfeito."
+                echo "O numero $number nao e perfeito.";
         }
 }
+echo ":-)";
 ?>
