@@ -27,7 +27,7 @@ function encontraDivisores($number){
         }
         return $fatores;
 }
-function fatora($number){ //isso aqui eu fiz de bobo. nao era para encontrar os fatores dele. mas demorei tanto que vou botar aqui.
+function fatora($number){ //isso aqui eu fiz de bobo. nao era para encontrar os fatores dele. mas demorei tanto que vou botar aqui. BLZ seu tonto
         $fatores = array();
         $fatores[] = 1;
         $numeroPrimo = 2;
