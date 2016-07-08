@@ -58,5 +58,5 @@ if ($_POST){
                 echo "O numero $number nao e perfeito.";
         }
 }
-echo ":-)";
 ?>
+//Code off
